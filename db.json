@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Patricio ",
+      "empresa": "PatoDev",
+      "email": "correo@correo.com",
+      "telefono": "21545646",
+      "notas": "Cliente pidiendo un presupuesto.",
+      "id": 1
+    },
+    {
+      "nombre": "Agustina ",
+      "empresa": "Agus Enseña",
+      "email": "email@email.com",
+      "telefono": "3216465464",
+      "notas": "Solicita cotización de pizarrones.",
+      "id": 2
+    },
+    {
+      "nombre": "Santiago",
+      "empresa": "Santi Construcciones",
+      "email": "correo@correo.com",
+      "telefono": "12156464",
+      "notas": "Solicitando cotizaciones de materiales",
+      "id": 3
+    },
+    {
+      "nombre": "Juan Cruz",
+      "empresa": "Juanchi Diseño",
+      "email": "correo@correo.com",
+      "telefono": "165464684984",
+      "notas": "",
+      "id": 4
+    },
+    {
+      "nombre": "Felipe",
+      "empresa": "Felo Eventos",
+      "email": "correo@correo.com",
+      "telefono": "15246546346",
+      "notas": "Cliente pide presupuesto de mantelería",
+      "id": 5
+    }
+  ]
+}
